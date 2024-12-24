@@ -16,5 +16,5 @@ The Vaultbound Pouch creates a pocket dimension tied to a specific bank vault. P
 Feel free to fork this repository and submit pull requests with your ideas! Let’s make this item even better together.
 
 ## OGL Compliance
-All content created by Atomic Quill Publishing complies with the [Open Gaming License](https://github.com/AtomicQuillPublishing/five-kings/blob/main/ogl.md) (OGL). This license allows for the sharing, adaptation, and use of certain game mechanics and content in accordance with the terms outlined by the OGL.
+All content created by Atomic Quill Publishing complies with the [Open Gaming License](https://github.com/AtomicQuillPublishing/Vaultboun-pouch/blob/main/ogl.md) (OGL). This license allows for the sharing, adaptation, and use of certain game mechanics and content in accordance with the terms outlined by the OGL.
 
